@@ -106,7 +106,7 @@ function wireFrameFromPointsList(points, xOffset = 0, yOffset = 0, zOffset = 0, 
             camera.position.set(props.cameraCoordinates.x, props.cameraCoordinates.y, props.cameraCoordinates.z);
             camera.updateProjectionMatrix();
 
-            props.objects.forEach((object, index) => {
+            props.objects.forEach(object => {
                 pointsListFromFile(object.file)
                 .then(points => {
                     wireFrameFromPointsList(points, object.xOffset, object.yOffset, object.zOffset, object.speed, object.color);

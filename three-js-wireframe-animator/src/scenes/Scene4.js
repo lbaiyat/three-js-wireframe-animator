@@ -15,11 +15,11 @@ function Scene4() {
     const objects = [...skyscraperObjects]
 
     const cameraCoordinates = {
-        x: 0,
-        y: -650,
-        z: 50
+        x: 250,
+        y: -450,
+        z: 250
     };
-    const fov = 100;
+    const fov = 120;
     return (
         <>
             <SceneComponent objects={objects} cameraCoordinates={cameraCoordinates} fov={fov}/>
