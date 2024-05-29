@@ -20,10 +20,9 @@ function Scene4() {
         z: 250
     };
     const fov = 120;
+
     return (
-        <>
-            <SceneComponent objects={objects} cameraCoordinates={cameraCoordinates} fov={fov}/>
-        </>
+        <SceneComponent objects={objects} cameraCoordinates={cameraCoordinates} fov={fov}/>
     )
 }
 

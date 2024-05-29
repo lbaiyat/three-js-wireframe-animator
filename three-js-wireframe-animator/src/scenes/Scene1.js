@@ -17,19 +17,18 @@ function Scene1() {
             speed: 8,
             color: 0x0fffff
         },
-    ]
+    ];
 
     const cameraCoordinates = {
         x: 0,
         y: -35,
         z: 15
-    }
+    };
 
-    const fov = 20
+    const fov = 20;
+
     return (
-        <>
-            <SceneComponent objects={objects} cameraCoordinates={cameraCoordinates} fov={fov}/>
-        </>
+        <SceneComponent objects={objects} cameraCoordinates={cameraCoordinates} fov={fov}/>
     )
 }
 
