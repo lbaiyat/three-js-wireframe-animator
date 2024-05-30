@@ -170,7 +170,7 @@ Scene One
 </h3>
 
 
-[![Custom Thumbnail](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_1_thumbnail.png)](https://github.com/lbaiyat/three-js-wireframe-animator/assets/30711209/a3196825-fe1e-4121-b20b-bb789b790de7)
+[![Watch the video](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_1_thumbnail.png)](https://github.com/lbaiyat/three-js-wireframe-animator/assets/30711209/a3196825-fe1e-4121-b20b-bb789b790de7)
 
 
 <h3 id="scene-two">
