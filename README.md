@@ -169,7 +169,8 @@ Example Scenes
 Scene One
 </h3>
 
-[![Watch the video](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_1_thumbnail.png)](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_1.mp4)
+
+https://github.com/lbaiyat/three-js-wireframe-animator/assets/30711209/a3196825-fe1e-4121-b20b-bb789b790de7
 
 
 <h3 id="scene-two">
@@ -184,14 +185,15 @@ Scene Three
 </h3>
 
 
+https://github.com/lbaiyat/three-js-wireframe-animator/assets/30711209/07dc392a-cd35-46c9-9658-7f5c8f347395
 
-
-[![Watch the video](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_3_thumbnail.png)](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_3.mp4)
 
 <h3 id="scene-four">
 Scene Four
 </h3>
 
-[![Watch the video](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_4_thumbnail.png)](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_4.mp4)
+https://github.com/lbaiyat/three-js-wireframe-animator/assets/30711209/40e9bdf3-f32d-40cc-ba94-8146604dafde
+
+
 
 </div>
