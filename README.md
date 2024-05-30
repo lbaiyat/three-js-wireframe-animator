@@ -176,11 +176,15 @@ Scene One
 Scene Two
 </h3>
 
-[![Watch the video](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_2_thumbnail.png)](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_2.mp4)
+https://github.com/lbaiyat/three-js-wireframe-animator/assets/30711209/2f8e8e96-6ccb-4fd1-b096-b85ace041469
+
 
 <h3 id="scene-three">
 Scene Three
 </h3>
+
+
+
 
 [![Watch the video](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_3_thumbnail.png)](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_3.mp4)
 
