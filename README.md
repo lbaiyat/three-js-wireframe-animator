@@ -168,31 +168,26 @@ Example Scenes
 <h3 id="scene-one">
 Scene One
 </h3>
-<video width="640" height="480" controls poster="https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_1_thumbail.mp4">
-  <source src="https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_1.mp4" type="video/mp4" >
-</video>
 
+
+[![Watch the video](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_1_thumbnail.png)](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_1.mp4)
 
 <h3 id="scene-two">
 Scene Two
 </h3>
-<video width="640" height="480" controls poster="https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_2_thumbail.mp4">
-  <source src="https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_2.mp4" type="video/mp4" >
-</video>
+
+[![Watch the video](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_2_thumbnail.png)](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_2.mp4)
 
 <h3 id="scene-three">
 Scene Three
 </h3>
-<video width="640" height="480" controls poster="https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_3_thumbail.mp4">
-  <source src="https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_3.mp4" type="video/mp4" >
-</video>
+
+[![Watch the video](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_3_thumbnail.png)](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_3.mp4)
 
 <h3 id="scene-four">
 Scene Four
 </h3>
-<video width="640" height="480" controls poster="https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_4_thumbail.mp4">
-  <source src="https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_4.mp4" type="video/mp4" >
-</video>
 
+[![Watch the video](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_4_thumbnail.png)](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_4.mp4)
 
 </div>
