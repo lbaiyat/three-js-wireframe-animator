@@ -169,8 +169,11 @@ Example Scenes
 Scene One
 </h3>
 
+<video width="640" height="480" controls poster="https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_1_thumbnail.png">
+  <source src="https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-[![Watch the video](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_1_thumbnail.png)](https://lbaiyat-github.s3.amazonaws.com/wireframe-animator/scene_1.mp4)
 
 <h3 id="scene-two">
 Scene Two
